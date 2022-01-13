@@ -1,0 +1,7 @@
+name: VoiceWarning
+version: '${version}'
+main: com.suppergerrie2.voicewarning.voicewarning.VoiceWarning
+api-version: 1.18
+authors: [ suppergerrie2 ]
+description: Send a warning to people using the voice chat mod
+depend: [ voicechat ]
